@@ -139,4 +139,6 @@ tab_home/TabHomeView
 ...
 ```
 
-<iframe width="935" height="526" src="https://www.youtube.com/embed/zBGmVRNHBCo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/embed/zBGmVRNHBCo" target="_blank"><img src="https://img.youtube.com/vi/zBGmVRNHBCo/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+ 
