@@ -2,7 +2,8 @@
 Flutter Example, (ViewPager Parallax, VerticalList, HorizontalList, Tab, Custom Dot Indicator, Action Click, Clean)
 
 
-# Output : Running on Device (Ios & Android)
+# Output : 
+### Running on Device (Ios & Android)
 <a href="https://www.youtube.com/embed/zBGmVRNHBCo" target="_blank"><img src="https://img.youtube.com/vi/zBGmVRNHBCo/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
  
@@ -20,14 +21,10 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
  
 ### Dependencies
-| Name |
-| ------ |
 |flutter sdk |
 |cupertino_icons| 
 
 ### Assets
-| Type |
-| ------ |
 |Image|
 |Font| 
 
