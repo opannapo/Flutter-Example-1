@@ -1,0 +1,31 @@
+name: flutter_parallax
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/
+  - assets/ic/tab/
+  - assets/banner/
+  - assets/topic/
+
+fonts:
+- family: helvetica
+  fonts:
+  - asset: fonts/HELR45W.ttf
