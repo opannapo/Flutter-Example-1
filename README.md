@@ -21,16 +21,12 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
  
 ### Dependencies
-| Name |
-| ------ |
-|flutter sdk |
-|cupertino_icons| 
+- flutter sdk
+- cupertino_icons
 
 ### Assets
-| Type |
-| ------ |
-|Image|
-|Font| 
+- Image
+- Font
 
 
 # Details
